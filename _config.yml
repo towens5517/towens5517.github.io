@@ -1,11 +1,11 @@
 # Site settings
 author: Latesha Owens
-title: 
+title: My Journey into Data Science
 header-img: img/home-bg.png
 email: towens324@gmail.com
 copyright_name: Latesha Owens
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Oh, how far I've come!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  towens5517
